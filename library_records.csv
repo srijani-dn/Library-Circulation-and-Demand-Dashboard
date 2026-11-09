@@ -1,0 +1,9 @@
+loan_id,student_id,book_id,book_title,category,issue_date,due_date,return_date
+L001,S101,B101,Python Basics,Technology,2026-01-05,2026-01-19,2026-01-15
+L002,S102,B102,The Blue Umbrella,Fiction,2026-01-10,2026-01-24,2026-01-22
+L003,S103,B103,Concepts of Physics,Science,2026-02-02,2026-02-16,2026-02-12
+L004,S104,B101,Python Basics,Technology,2026-02-08,2026-02-22,2026-02-20
+L005,S105,B104,A Brief History of Time,Science,2026-03-01,2026-03-15,2026-03-12
+L006,S101,B105,Wings of Fire,Biography,2026-03-10,2026-03-24,2026-03-23
+L007,S106,B102,The Blue Umbrella,Fiction,2026-04-03,2026-04-17,2026-04-14
+L008,S107,B106,Digital Electronics,Technology,2026-04-10,2026-04-24,

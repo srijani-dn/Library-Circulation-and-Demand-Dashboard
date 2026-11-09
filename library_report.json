@@ -1,0 +1,98 @@
+{
+    "generated_on": "2026-11-09",
+    "total_loan_records": 8,
+    "category_summary": {
+        "Biography": 1,
+        "Fiction": 2,
+        "Science": 2,
+        "Technology": 3
+    },
+    "monthly_summary": {
+        "2026-01": 2,
+        "2026-02": 2,
+        "2026-03": 2,
+        "2026-04": 2
+    },
+    "loan_records": [
+        {
+            "loan_id": "L001",
+            "student_id": "S101",
+            "book_id": "B101",
+            "book_title": "Python Basics",
+            "category": "Technology",
+            "issue_date": "2026-01-05",
+            "due_date": "2026-01-19",
+            "return_date": "2026-01-15"
+        },
+        {
+            "loan_id": "L002",
+            "student_id": "S102",
+            "book_id": "B102",
+            "book_title": "The Blue Umbrella",
+            "category": "Fiction",
+            "issue_date": "2026-01-10",
+            "due_date": "2026-01-24",
+            "return_date": "2026-01-22"
+        },
+        {
+            "loan_id": "L003",
+            "student_id": "S103",
+            "book_id": "B103",
+            "book_title": "Concepts of Physics",
+            "category": "Science",
+            "issue_date": "2026-02-02",
+            "due_date": "2026-02-16",
+            "return_date": "2026-02-12"
+        },
+        {
+            "loan_id": "L004",
+            "student_id": "S104",
+            "book_id": "B101",
+            "book_title": "Python Basics",
+            "category": "Technology",
+            "issue_date": "2026-02-08",
+            "due_date": "2026-02-22",
+            "return_date": "2026-02-20"
+        },
+        {
+            "loan_id": "L005",
+            "student_id": "S105",
+            "book_id": "B104",
+            "book_title": "A Brief History of Time",
+            "category": "Science",
+            "issue_date": "2026-03-01",
+            "due_date": "2026-03-15",
+            "return_date": "2026-03-12"
+        },
+        {
+            "loan_id": "L006",
+            "student_id": "S101",
+            "book_id": "B105",
+            "book_title": "Wings of Fire",
+            "category": "Biography",
+            "issue_date": "2026-03-10",
+            "due_date": "2026-03-24",
+            "return_date": "2026-03-23"
+        },
+        {
+            "loan_id": "L007",
+            "student_id": "S106",
+            "book_id": "B102",
+            "book_title": "The Blue Umbrella",
+            "category": "Fiction",
+            "issue_date": "2026-04-03",
+            "due_date": "2026-04-17",
+            "return_date": "2026-04-14"
+        },
+        {
+            "loan_id": "L008",
+            "student_id": "S107",
+            "book_id": "B106",
+            "book_title": "Digital Electronics",
+            "category": "Technology",
+            "issue_date": "2026-04-10",
+            "due_date": "2026-04-24",
+            "return_date": ""
+        }
+    ]
+}
